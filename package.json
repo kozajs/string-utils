@@ -1,6 +1,6 @@
 {
 	"name": "@kozajs/string-utils",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "String utilities used in the Koza project.",
 	"homepage": "https://github.com/kozajs/string-utils",
 	"respository": {
