@@ -1,5 +1,3 @@
-import { URL } from 'node:url';
-
 /**
  * Capitalizes the first letter of a string
  * @param {string} string Input string
