@@ -22,8 +22,7 @@
 		"prerelease": "npm run build",
 		"release": "release-it"
 	},
-	"keywords": [],
-	"author": "",
+	"author": "depthbomb",
 	"license": "GPLV3",
 	"files": [
 		"dist/*"
@@ -32,10 +31,10 @@
 		"node": ">=16.0.0"
 	},
 	"devDependencies": {
-		"@types/node": "^16.11.10",
+		"@types/node": "^16.11.12",
 		"@types/rimraf": "^3.0.2",
 		"release-it": "^14.11.8",
 		"rimraf": "^3.0.2",
-		"typescript": "^4.5.2"
+		"typescript": "^4.5.3"
 	}
 }
